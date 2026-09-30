@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Wing Bank",
+    "slug": "wing-bank-ts",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": false,
+    "splash": { "backgroundColor": "#9ACD32" },
+    "ios": { "supportsTablet": false, "bundleIdentifier": "com.eansokveng.wingbank" },
+    "android": {
+      "adaptiveIcon": { "backgroundColor": "#9ACD32" },
+      "package": "com.eansokveng.wingbank"
+    }
+  }
+}
